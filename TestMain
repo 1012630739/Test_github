@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+int main(void) {
+	printf("Test Github");
+	printf("Test success");
+	return 0;
+}
